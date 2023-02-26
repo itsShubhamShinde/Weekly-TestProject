@@ -3,7 +3,11 @@
   height: 100%;
   width: 100%;
   background-image: url(./Images/bg.webp);
-  /* background-repeat: no-repeat; */
   display: flex;
   flex-direction: column;
+}
+.EmptyDiv{
+  height: 70vh;
+  width: 100%;
+  background-color: transparent;
 }
