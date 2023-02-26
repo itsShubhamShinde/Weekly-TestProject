@@ -1,0 +1,29 @@
+.Rewaed{
+    /* border: 2px solid blue; */
+    height: 60vh;
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.Rewaed h1{
+    /* border: 1px solid red; */
+    font-size: 5rem;
+}
+.Rewaed p{
+    /* border: 1px solid red; */
+    font-size: 1.6rem;
+}
+.Rewaed button{
+    /* border: 1px solid red; */
+    width: 20%;
+    /* font-size:500; */
+    padding: .8rem 2rem;
+    border-radius: 30px;
+    font-size: 1rem;
+    border: none;
+    outline: none;
+}

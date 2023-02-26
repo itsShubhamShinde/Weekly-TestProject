@@ -1,0 +1,46 @@
+.Comp2chair{
+    /* border: 2px solid blue; */
+    height: 100vh;
+    width: 100%;
+    /* background-image: url(../Images/deserve-more-bg.webp); */
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: flex-start;
+}
+.ContextDiv{
+    /* border: 2px solid black; */
+    height: 100%;
+    width: 40%;
+    margin-left: 150px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.ContextDiv h1{
+    /* border: 2px solid blue; */
+    /* height: 10%; */
+    /* width: 100%; */
+    font-size: 4rem;
+}
+.ContextDiv h3{
+    /* border: 2px solid blue; */
+    font-size: 1.3rem;
+    padding: 1rem 0rem;
+}
+.ContextDiv p{
+    /* border: 2px solid blue; */
+    font-size: .6rem;
+    padding: .2rem 0rem;
+}
+.ContextDiv button{
+    border:none;
+    outline: none;
+    width: 50%;
+    margin-top: 30px;
+    border-radius: 30px;
+    padding: .7rem 1rem;
+
+}

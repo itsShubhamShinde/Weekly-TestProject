@@ -1,0 +1,10 @@
+.Comp1mob{
+    /* border: 2px solid blue; */
+    height: 70vh;
+    width: 100%;
+    background-color: black;
+}
+.Comp1mob img{
+    height: 100%;
+    width: 100%;
+}
